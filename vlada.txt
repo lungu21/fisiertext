@@ -1,4 +1,11 @@
 vlada111
 vadimmm
+<<<<<<< HEAD
 vvvv
 111111111111111111
+=======
+
+lungu
+aaa
+aaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> 47509041b43b3ab8e87f8691482d1b52789fb34a
